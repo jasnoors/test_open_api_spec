@@ -5715,7 +5715,7 @@ components:
       type: object
       properties:
         angle:
-          description: 'Required for ''rotate'' cmd. It specifies the clockwise rotation
+          description: 'Required for "rotate" cmd. It specifies the clockwise rotation
             angle relative to the starting orientation of the page. e.g. if a page
             is already rotated 90 degrees (landscape), specifying a rotation of 90
             degrees will rotate it a further 90 degrees. The valid rotation angles
